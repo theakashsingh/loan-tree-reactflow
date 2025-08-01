@@ -1,0 +1,7 @@
+export const LAYOUT_CONFIG = {
+  NODE_WIDTH: 200,
+  NODE_HEIGHT: 80,
+  RANK_SEP: 120,
+  NODE_SEP: 80,
+  DEFAULT_DIRECTION: "TB",
+};
